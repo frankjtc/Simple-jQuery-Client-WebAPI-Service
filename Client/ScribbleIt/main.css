@@ -1,0 +1,162 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background: #292525 url(images/bg_body.png) repeat-x;
+	}
+
+#container{
+	margin:auto;
+	width:984px;
+	height:550px;
+	background:url(images/bg_header.jpg) no-repeat top center;
+	}
+
+#content{
+	float:left;
+	width:656px;
+	height:550px;
+	}
+
+#hero{
+	width:656px;
+	height:300px;
+	}
+
+#logo{
+	float:left;
+	padding:70px 0px 0px 36px;
+	width:292px;
+	height:214px;
+	}
+
+#text{
+	float:left;
+	padding:70px 20px 0px 20px;
+	width:288px;
+	height:150px;
+	}
+
+#text p{
+	font-size:14px;
+	font-weight:bold;
+	line-height:19px;
+	}
+
+#available{
+	float:left;
+	padding:0px 0px 0px 20px;
+	width:290px;
+	height:66px;
+	}
+
+#features{
+	padding:20px 0px 0px 30px;
+	width:626px;
+	height:220px;
+	}
+
+#features .feature{
+	margin:0px 16px 20px 0px;
+	float:left;
+	width:186px;
+	height:60px;
+	}
+
+#screenshots{
+	float:right;
+	padding:72px 0px 0px 52px;
+	width:276px;
+	height:466px;
+	background:url(images/phone.png) no-repeat center;
+	}
+
+#screenshots img{}
+
+#myGallery
+{
+	height: 362px;
+}
+
+#myGallery div
+{
+	display: none;
+}
+
+#myGallery div.active
+{
+	display: block;
+}
+
+#paging{
+	text-align:center;
+	margin:80px 0px 0px 0px;
+	width:230px;
+	}
+
+#paging a{
+	padding-right:6px;
+	}
+
+#footer{
+	margin:0;
+	padding:30px 0px 0px 30px;
+	font-size:10px;}
+
+#footer img{
+	padding:0px 0px 6px 0px;}
+
+.clear{clear:both;}
+
+
+
+/*** Text ***/
+
+H2{
+	margin:0;
+	padding:0px 0px 20px 0px;
+	font-size:24px;
+	font-weight:bold;
+	}
+
+H3{
+	margin:0;
+	padding:0;
+	font-size:13px;
+	font-weight:bold;
+	}
+
+.feature .icon{
+	float:left;
+	width:50px;
+	height:50px;
+	}
+
+.feature .text{
+	float:left;
+	padding-left:6px;
+	width:130px;
+	height:60px;}
+
+p{
+	margin:0;
+	padding:0;
+	font-size:13px;
+	font-weight:normal;
+	}
+
+.error{
+    display: none;
+    margin-left: 10px;
+}      
+ 
+.error_show{
+    color: red;
+    margin-left: 10px;
+    font-size:12px;
+}
+

@@ -1,0 +1,6 @@
+c:\users\frank  j\documents\visual studio 2013\Projects\ScribbleIt\ScribbleIt\bin\ScribbleIt.dll.config
+c:\users\frank  j\documents\visual studio 2013\Projects\ScribbleIt\ScribbleIt\bin\ScribbleIt.dll
+c:\users\frank  j\documents\visual studio 2013\Projects\ScribbleIt\ScribbleIt\bin\ScribbleIt.pdb
+c:\users\frank  j\documents\visual studio 2013\Projects\ScribbleIt\ScribbleIt\obj\Debug\ScribbleIt.dll
+c:\users\frank  j\documents\visual studio 2013\Projects\ScribbleIt\ScribbleIt\obj\Debug\ScribbleIt.pdb
+C:\Users\Frank  J\Documents\Visual Studio 2013\Projects\ScribbleIt\ScribbleIt\obj\Debug\ScribbleIt.csprojResolveAssemblyReference.cache
